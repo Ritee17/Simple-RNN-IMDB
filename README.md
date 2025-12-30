@@ -105,8 +105,5 @@ The model consists of the following layers:
 The model achieves a validation accuracy of approximately **83%** on the IMDB dataset.
 
 
-*Created by [Your Name]*
+*Created by Ritee*
 
-```
-
-```
