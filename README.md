@@ -4,6 +4,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 
+**🔴 Live Demo:** [Click here to try the App](https://simple-rnn-imdb-a5nqxlcmzz3jtxbjgdzqgw.streamlit.app/)
+
 A Deep Learning project that performs sentiment analysis on movie reviews using the IMDB dataset. This project utilizes a **Simple RNN** (Recurrent Neural Network) built with TensorFlow/Keras and features a user-friendly web interface deployed using **Streamlit**.
 
 ## 🚀 Project Overview
